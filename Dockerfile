@@ -40,3 +40,4 @@ EXPOSE 8080
 
 # Start the application
 ENTRYPOINT ["java", "-jar", "/app/target/expenseapp.jar"]
+
